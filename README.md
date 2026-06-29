@@ -15,5 +15,9 @@ Permitiendo así al usuario enfrentarse en un número indefinido de rondas contr
 - Registro de puntuaciones: Se lleva un conteo acumulativo de los puntos obtenidos por parte del usuario y la computadora durante la sesión de juego.
 - Rejugabilidad: Al finalizar cada ronda, se permite al usuario decidir si continua el jeugo o lo cierra.
 
+# PROBLEMAS DEL SISTEMA
+Al momento de ejecutar el sistema, pueden haber ciertas limitaciones, ya que no se encuentra delimitado que números puede ingresar el usuario. En caso de que el usuario digite un número que no se encuentra dentro del segmento que se mostro en el menú de interacciones, se va a terminar de ejecutar el programa y no podra continuar con la experiencia estimada. 
+Tambien se aplica en caso de que el usuario digite una palabra dentro al momento de ingresar lo solicitado en pantalla, volvera a suceder lo que se comento en la anterior limitación, se cortara el flujo del programa y no podra continuar con el juego el usuario. 
+
 # FECHA
 28 DE JUNIO 2026
